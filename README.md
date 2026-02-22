@@ -4,7 +4,7 @@ A starter web application built with React, TypeScript, Vite, Tailwind CSS, shad
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org/) (v18 or later)
+- [Node.js](https://nodejs.org/) (v20.19 or later)
 - A [Supabase](https://supabase.com/) project (for the URL and anon key)
 
 ## Getting Started
